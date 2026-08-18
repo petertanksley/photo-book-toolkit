@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 scripts/*)",
+      "Bash(pip3 list *)",
+      "Bash(pip3 install *)",
+      "Bash(rclone copy *)",
+      "Bash(rclone lsd *)",
+      "Bash(rclone size *)",
+      "Bash(sips -g pixelWidth -g pixelHeight *)",
+      "Bash(brew --version)",
+      "WebSearch"
+    ]
+  }
+}

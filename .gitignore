@@ -1,0 +1,43 @@
+# ---------------------------------------------------------------------------
+# Photos never go in this repo. Ever.
+# Root-anchored so examples/*/manifests/ and examples/*/reports/ still commit.
+# ---------------------------------------------------------------------------
+/raw/
+/selected/
+/flagged/
+/rejected/
+/exports/
+/docs/
+
+# Thumbnail caches (browser.py regenerates these on demand)
+**/.thumbs/
+
+# Image files anywhere, as a belt-and-braces backstop
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
+*.heic
+*.HEIC
+*.heif
+*.HEIF
+*.tif
+*.tiff
+*.dng
+*.raf
+*.cr2
+*.nef
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Claude Code local overrides
+.claude/settings.local.json

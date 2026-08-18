@@ -1,0 +1,6 @@
+Flask>=3.0
+Pillow>=10.0
+numpy>=1.24
+
+# Optional — HEIC/HEIF support. Without it the scripts run but skip .heic files.
+pillow-heif>=0.16

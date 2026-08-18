@@ -1,0 +1,49 @@
+============================================================
+EXPORT PREP REPORT
+Mode: APPLY
+============================================================
+
+Total photos in selected/: 591
+  Will resize (long side > 3000px): 530
+  Copy as-is (already ≤ 3000px): 61
+  Errors: 0
+
+--- LOW-RES FLAGS (34 photos, short side < 800px) ---
+  These may print soft in collage slots — review before uploading.
+  2025-01-01 20.37.33.jpg  (600x800px, short=600px)
+  2025-01-09 17.01.59.jpg  (600x800px, short=600px)
+  2025-01-31 10.48.08.jpg  (600x800px, short=600px)
+  2025-02-24 10.19.07.jpg  (768x1024px, short=768px)
+  2025-02-24 10.19.17.jpg  (768x1024px, short=768px)
+  2025-03-05 10.15.35.jpg  (600x800px, short=600px)
+  2025-03-14 13.34.54.jpg  (600x800px, short=600px)
+  2025-03-21 10.37.22.jpg  (600x800px, short=600px)
+  2025-03-27 14.53.56.jpg  (600x800px, short=600px)
+  2025-04-10 09.28.29.jpg  (768x1024px, short=768px)
+  2025-05-08 10.17.38.jpg  (600x800px, short=600px)
+  2025-05-12 16.37.54.jpg  (600x800px, short=600px)
+  2025-05-19 16.39.09.jpg  (600x800px, short=600px)
+  2025-06-05 10.26.32.jpg  (768x1024px, short=768px)
+  2025-06-05 10.26.44.jpg  (768x1024px, short=768px)
+  2025-06-09 16.04.23.jpg  (600x800px, short=600px)
+  2025-06-26 16.57.49.jpg  (600x800px, short=600px)
+  2025-07-07 16.46.23.jpg  (600x800px, short=600px)
+  2025-09-02 19.19.48.jpg  (768x1024px, short=768px)
+  2025-09-25 10.14.45.jpg  (768x1024px, short=768px)
+  2025-10-16 10.33.36-1.jpg  (634x960px, short=634px)
+  2025-10-16 10.33.36.jpg  (566x960px, short=566px)
+  2025-10-31 13.28.58.jpg  (768x1024px, short=768px)
+  2025-10-31 13.29.13.jpg  (1024x768px, short=768px)
+  2025-10-31 13.29.26.jpg  (768x1024px, short=768px)
+  2025-10-31 13.29.33.jpg  (1024x768px, short=768px)
+  2025-10-31 13.29.50.jpg  (768x1024px, short=768px)
+  2025-12-03 08.59.26.jpg  (768x1024px, short=768px)
+  2025-12-09 12.24.12.jpg  (768x1024px, short=768px)
+  2025-12-17 10.05.33.jpg  (768x1024px, short=768px)
+  2025-12-18 11.27.20.jpg  (768x1024px, short=768px)
+  2025-12-18 11.27.26.jpg  (768x1024px, short=768px)
+  2025-12-23 18.56.40.jpg  (600x734px, short=600px)
+  2025-12-23 18.56.54.jpg  (600x800px, short=600px)
+
+Output written to: exports/  (591 files)
+============================================================
