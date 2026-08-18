@@ -27,6 +27,23 @@ Of the 591 exports, 530 were downsized and 61 copied through unchanged. 34 were
 flagged low-resolution (short side under 800px) and kept anyway as acceptable
 for collage slots — they are itemized in `reports/export_report.txt`.
 
+### `raw/` by month
+
+Derived from `manifests/raw.txt`, which is the authoritative record. The
+project's original `CLAUDE.md` carried a per-month table that summed to 1,925 —
+it was written mid-filtering and never updated, and is superseded by this.
+
+| Month | Photos | Month | Photos |
+|-------|--------|-------|--------|
+| January   | 213 | July      | 117 |
+| February  | 173 | August    | 102 |
+| March     | 211 | September | 150 |
+| April     | 223 | October   | 191 |
+| May       | 277 | November  | 189 |
+| June      |  91 | December  | 173 |
+
+Total 2,110. May was the heaviest month by a wide margin; June the lightest.
+
 ## Settled decisions
 
 - **Year:** 2025
